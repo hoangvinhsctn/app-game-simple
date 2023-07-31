@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Funny Eye Game</string>
+    <string-array name="list_name">
+        <item>material1</item>
+        <item>material2</item>
+        <item>material3</item>
+        <item>material4</item>
+        <item>material5</item>
+        <item>material6</item>
+        <item>material7</item>
+        <item>material8</item>
+        <item>material9</item>
+        <item>material10</item>
+        <item>material11</item>
+        <item>material12</item>
+        <item>material13</item>
+        <item>material14</item>
+        <item>material15</item>
+        <item>material16</item>
+        <item>material17</item>
+        <item>material18</item>
+    </string-array>
+</resources>
